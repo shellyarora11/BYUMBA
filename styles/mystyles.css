@@ -1,0 +1,63 @@
+body{
+    color: black;
+    font-family:papyrus;
+
+}
+
+.h1{
+    color: white;
+    font-family:'Times New Roman', Times, serif;
+    
+}
+.footer{
+    position: fixed;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+    border-top:black;
+}
+.post-previews {
+    color: white;
+  }
+.post-title{
+      font-family:'Times New Roman', Times, serif;
+      font-weight:bold;
+      color: black;
+      font-style: italic;
+      font-size:xx-large;
+      text-align:center;
+  }
+.post-subtitle{
+    font-family:'Times New Roman', Times, serif;
+    font-style:italic;
+    text-align:center;
+
+}
+.site-heading{
+    font-size:xx-large;
+}
+.center {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+        text-align: center;
+
+      }
+.resume{
+    text-decoration: underline;
+    font-family:'Times New Roman', Times, serif
+}
+.resumeBP{
+    font-family:'Times New Roman', Times, serif;
+    
+}
+.cw{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size:small;
+    text-align:center;
+    font-color:grey;
+}
+
+
+
